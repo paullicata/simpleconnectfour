@@ -1,0 +1,4 @@
+This a simple connect four engine. This is a two player game, with 
+the column (or move) is to be entered from the terminal. The first player enters their 
+move and then the second player moves until there is a win or the gameboard is filled 
+up. Use Makefile to compile.
